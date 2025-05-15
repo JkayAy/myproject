@@ -1,0 +1,16 @@
+numpy>=1.21.0
+pandas>=1.3.0
+streamlit>=1.10.0
+Pillow>=8.0.0
+plotly>=5.0.0
+tensorflow>=2.6.0
+anthropic>=0.2.0
+openai>=0.27.0
+python-dotenv>=0.20.0
+opencv-python-headless
+seaborn==0.12.2
+nltk
+textblob
+google-generativeai
+
+
